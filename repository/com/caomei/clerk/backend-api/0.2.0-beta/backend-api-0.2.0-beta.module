@@ -1,0 +1,195 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.caomei.clerk",
+    "module": "backend-api",
+    "version": "0.2.0-beta",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.5"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.jsonwebtoken",
+          "module": "jjwt-api",
+          "version": {
+            "requires": "0.12.6"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "backend-api-0.2.0-beta.jar",
+          "url": "backend-api-0.2.0-beta.jar",
+          "size": 1820827,
+          "sha512": "0eae02a3969b039ab75cb0e6c160875605e32d1eb3c065804f9dfe422ade6f6625d3805f4b35dc43d817c908f3310fef27fac6256f2feba0a1aed1c6737e35a5",
+          "sha256": "6721d2eb2cd6e34cf36bb80ab1e141c439ab7ffaf49ef4347b4783403d91d9f5",
+          "sha1": "24e97ef4588023a5d7a1a506f72a407d6a6ffafe",
+          "md5": "990c2b470e77b6e000e8f267baf0d9c3"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.fasterxml.jackson.core",
+          "module": "jackson-databind",
+          "version": {
+            "requires": "2.17.0"
+          }
+        },
+        {
+          "group": "com.fasterxml.jackson.datatype",
+          "module": "jackson-datatype-jsr310",
+          "version": {
+            "requires": "2.17.0"
+          }
+        },
+        {
+          "group": "com.fasterxml.jackson.datatype",
+          "module": "jackson-datatype-jdk8",
+          "version": {
+            "requires": "2.17.0"
+          }
+        },
+        {
+          "group": "org.openapitools",
+          "module": "jackson-databind-nullable",
+          "version": {
+            "requires": "0.2.6"
+          }
+        },
+        {
+          "group": "org.apache.httpcomponents",
+          "module": "httpclient",
+          "version": {
+            "requires": "4.5.14"
+          }
+        },
+        {
+          "group": "org.apache.httpcomponents",
+          "module": "httpmime",
+          "version": {
+            "requires": "4.5.14"
+          }
+        },
+        {
+          "group": "commons-io",
+          "module": "commons-io",
+          "version": {
+            "requires": "2.15.1"
+          }
+        },
+        {
+          "group": "com.jayway.jsonpath",
+          "module": "json-path",
+          "version": {
+            "requires": "2.9.0"
+          }
+        },
+        {
+          "group": "io.jsonwebtoken",
+          "module": "jjwt-impl",
+          "version": {
+            "requires": "0.12.6"
+          }
+        },
+        {
+          "group": "io.jsonwebtoken",
+          "module": "jjwt-jackson",
+          "version": {
+            "requires": "0.12.6"
+          }
+        },
+        {
+          "group": "org.bouncycastle",
+          "module": "bcprov-jdk18on",
+          "version": {
+            "requires": "1.76"
+          }
+        },
+        {
+          "group": "io.jsonwebtoken",
+          "module": "jjwt-api",
+          "version": {
+            "requires": "0.12.6"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "backend-api-0.2.0-beta.jar",
+          "url": "backend-api-0.2.0-beta.jar",
+          "size": 1820827,
+          "sha512": "0eae02a3969b039ab75cb0e6c160875605e32d1eb3c065804f9dfe422ade6f6625d3805f4b35dc43d817c908f3310fef27fac6256f2feba0a1aed1c6737e35a5",
+          "sha256": "6721d2eb2cd6e34cf36bb80ab1e141c439ab7ffaf49ef4347b4783403d91d9f5",
+          "sha1": "24e97ef4588023a5d7a1a506f72a407d6a6ffafe",
+          "md5": "990c2b470e77b6e000e8f267baf0d9c3"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "backend-api-0.2.0-beta-sources.jar",
+          "url": "backend-api-0.2.0-beta-sources.jar",
+          "size": 811690,
+          "sha512": "3138e7f8383f40b8bac0dc62172380aee671067f53f64441ac4fac56c4c3c35e5e23cd67108b9b244f169813a3b170911b4ea7e87573a6ab753ad8347a399c6d",
+          "sha256": "acf70a2c56ee4d47809feffa0fe98e68ff674b9579c8790541c100ebf5e56cb1",
+          "sha1": "a04fb24aa132af7a4818472fba660eebe7cd81e2",
+          "md5": "5818aebbb08e4065b0ef4653d995c205"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "backend-api-0.2.0-beta-javadoc.jar",
+          "url": "backend-api-0.2.0-beta-javadoc.jar",
+          "size": 4084182,
+          "sha512": "8c0fb6b14ff31a5f568409f87e78a5e090eb6a96b38f69fa06b9ab9c54b2831dbe0998d11a82e8a99b487fb3bb6ae34fe41c70b433179a44f3738915189ebe4f",
+          "sha256": "449f4875b34e6de2e6d2dea9e6df1eb1b83848944ab4da0797cd9d4814ef0eef",
+          "sha1": "e68a395b5f38e9b14b48b09e9759c42bdd96bb8f",
+          "md5": "1a6cb91b4f9720a492938b7f536ff5b7"
+        }
+      ]
+    }
+  ]
+}
