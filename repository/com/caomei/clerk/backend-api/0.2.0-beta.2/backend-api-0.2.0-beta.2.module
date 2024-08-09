@@ -36,11 +36,11 @@
         {
           "name": "backend-api-0.2.0-beta.2.jar",
           "url": "backend-api-0.2.0-beta.2.jar",
-          "size": 1822007,
-          "sha512": "02a258ce16d97c7e998b808a44224c8fafaed7a98bd0c914ed3c79789ea2c570bb90a56de53f065c71c333343b278c6424419e07c86e1d0bce49f7914fb9e979",
-          "sha256": "ad3ca668ba9c847015ef81f8988963017b8a0ec346744d102564c6b4369ecdb1",
-          "sha1": "bcb1475c22b026b10f0b43b821149df00a529c38",
-          "md5": "3d70af353dcf2f40e30422cde2d4e490"
+          "size": 1822003,
+          "sha512": "6e7986c868d3f23ca3504f33bedfb6b6e19eff59df46794cdcf34f3ed1ead77cc0731761f8d4e937f10b1c361e6856e915f3428c473c53ff1d7fc4bee1aa9790",
+          "sha256": "99a0e35cc2bd3291026b740603d62a41767479170d926741420dfad106b28bdd",
+          "sha1": "d30dfef6d95845f20145aa573773dd570cef98bd",
+          "md5": "36b74cb058d396cc5d9cc80f55b0b543"
         }
       ]
     },
@@ -143,11 +143,11 @@
         {
           "name": "backend-api-0.2.0-beta.2.jar",
           "url": "backend-api-0.2.0-beta.2.jar",
-          "size": 1822007,
-          "sha512": "02a258ce16d97c7e998b808a44224c8fafaed7a98bd0c914ed3c79789ea2c570bb90a56de53f065c71c333343b278c6424419e07c86e1d0bce49f7914fb9e979",
-          "sha256": "ad3ca668ba9c847015ef81f8988963017b8a0ec346744d102564c6b4369ecdb1",
-          "sha1": "bcb1475c22b026b10f0b43b821149df00a529c38",
-          "md5": "3d70af353dcf2f40e30422cde2d4e490"
+          "size": 1822003,
+          "sha512": "6e7986c868d3f23ca3504f33bedfb6b6e19eff59df46794cdcf34f3ed1ead77cc0731761f8d4e937f10b1c361e6856e915f3428c473c53ff1d7fc4bee1aa9790",
+          "sha256": "99a0e35cc2bd3291026b740603d62a41767479170d926741420dfad106b28bdd",
+          "sha1": "d30dfef6d95845f20145aa573773dd570cef98bd",
+          "md5": "36b74cb058d396cc5d9cc80f55b0b543"
         }
       ]
     },
@@ -163,11 +163,11 @@
         {
           "name": "backend-api-0.2.0-beta.2-sources.jar",
           "url": "backend-api-0.2.0-beta.2-sources.jar",
-          "size": 810945,
-          "sha512": "6f1ca04809b96412b4e0d96ac18978b90c8ba70ad43cd19f66f5fb394d26eb731fe86ba520a957e07467c3f34d209a2d55405f0a4b927010f624579222956d82",
-          "sha256": "563aeeb691a02eddb7a3f68e3d6146d41ce7ce56220453d357f3ba587814d5c8",
-          "sha1": "74c6ef2f94584654a729d92e18918996365222d2",
-          "md5": "fea26eb0cd7ca8a9300bfedb9f766040"
+          "size": 810944,
+          "sha512": "044595346c0fa53a3da97710f6d1296a562d915d012c0dd87784ba4505c3c95cd93855cb8483ee81aca970fcd85c234d0b824961d6a75d05071f992fdf8a4ada",
+          "sha256": "edea09a2bb13c69d53321872967d496c97af1ff42ff88cd1b285cfafde622caa",
+          "sha1": "978c3627bf07f112cde67a4e9fc90743a8b5084c",
+          "md5": "1dec705e45e1b1eb9d583935af2b12f1"
         }
       ]
     },
