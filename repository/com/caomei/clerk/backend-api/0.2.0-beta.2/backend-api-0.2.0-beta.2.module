@@ -36,11 +36,11 @@
         {
           "name": "backend-api-0.2.0-beta.2.jar",
           "url": "backend-api-0.2.0-beta.2.jar",
-          "size": 1822036,
-          "sha512": "5896a86a163f51540d55a25964a55a5b9e8ef4cba804885a9c25a597ae1d852935b264449f91f9f940f3f35bc3bc7d11800c2c436f9061d85633239ebb48ed2e",
-          "sha256": "60d23d75caf94c891adb34fc97399629e452b51adf9d7f187df47ff298c99465",
-          "sha1": "1ea19501939c49526f4e9c1c6183e376a33b15ec",
-          "md5": "82afc44c840c99b7e1111aa8ce29979d"
+          "size": 1822235,
+          "sha512": "9c7c77658be4a15a0d3c1b287fe4cea14fe5a4c6b2b9435d88bb31d595fa864cddb49647e9365bd69764e7c5119f934cb8352de8d10fd6588243ac9f4e26d441",
+          "sha256": "9b1ad98448a9d848a84ba50d0a6233f8b3518aa0b79c06fd53acefdb4a6a1306",
+          "sha1": "88fb0116bc6d301bb230377ba39a1f819c9c9080",
+          "md5": "5c44742825644e5c02bcb1b45da88d2c"
         }
       ]
     },
@@ -143,11 +143,11 @@
         {
           "name": "backend-api-0.2.0-beta.2.jar",
           "url": "backend-api-0.2.0-beta.2.jar",
-          "size": 1822036,
-          "sha512": "5896a86a163f51540d55a25964a55a5b9e8ef4cba804885a9c25a597ae1d852935b264449f91f9f940f3f35bc3bc7d11800c2c436f9061d85633239ebb48ed2e",
-          "sha256": "60d23d75caf94c891adb34fc97399629e452b51adf9d7f187df47ff298c99465",
-          "sha1": "1ea19501939c49526f4e9c1c6183e376a33b15ec",
-          "md5": "82afc44c840c99b7e1111aa8ce29979d"
+          "size": 1822235,
+          "sha512": "9c7c77658be4a15a0d3c1b287fe4cea14fe5a4c6b2b9435d88bb31d595fa864cddb49647e9365bd69764e7c5119f934cb8352de8d10fd6588243ac9f4e26d441",
+          "sha256": "9b1ad98448a9d848a84ba50d0a6233f8b3518aa0b79c06fd53acefdb4a6a1306",
+          "sha1": "88fb0116bc6d301bb230377ba39a1f819c9c9080",
+          "md5": "5c44742825644e5c02bcb1b45da88d2c"
         }
       ]
     },
@@ -163,11 +163,11 @@
         {
           "name": "backend-api-0.2.0-beta.2-sources.jar",
           "url": "backend-api-0.2.0-beta.2-sources.jar",
-          "size": 810964,
-          "sha512": "8819bf18b554116dbf0ac7f3645787105bce1816932e5f88096db4a1fd1692d3c23ce355b8ac0c678679e6d69d2acefbff8dc950b1482c9965e0899ef860fe15",
-          "sha256": "638aaf7aff37b50f1c1999cf6bb55e635798db8503021514153b1d27229e2cd1",
-          "sha1": "30b98680580868a362df041703e2842faeec430a",
-          "md5": "a5caba57d53d551708d5938094b16bfb"
+          "size": 810929,
+          "sha512": "0567512cd3ce43c5aeac98778e66f1f66cf7850780ca2ad9d81194d5cf74a5f90a424e324fef5197e5d32845d8f43d6299674a4c3b11f1e0706982b50a5e59b3",
+          "sha256": "9109227461101ff2d517f9bad9f73dab2e7466b0e875d77320876d8da5e9b8d1",
+          "sha1": "ab97a9d1b99871b88e82718b2d2caee469d8235e",
+          "md5": "4c2e302ac2f4ee555cffbdd25cce4292"
         }
       ]
     },
@@ -183,11 +183,11 @@
         {
           "name": "backend-api-0.2.0-beta.2-javadoc.jar",
           "url": "backend-api-0.2.0-beta.2-javadoc.jar",
-          "size": 4088064,
-          "sha512": "b4665ce98ae080b031c31171f09873a660c4aff0be4e8d472f94d6f393b67cfd4a3a08071c7b1f4a22fa71457e8021499347c6faea9bef2efdf57c852ddf56d7",
-          "sha256": "6613b47adcd96785b5a9f2fd7c0753b41fd5f52ddf3d9882170322e37946fbc4",
-          "sha1": "1906d0ff5159c0e8029d5445c1eed0a3841243df",
-          "md5": "10b1eeb0f59900bd19c3be95b9c3a941"
+          "size": 4087949,
+          "sha512": "da21f57ad304b70b9005efd32349d687d9b538c10b4c40dbbe7b2c893721450c024ec78fc6f100de4eb68f1f95edd96014c7aa3969c57d4a6a914682dd35ac24",
+          "sha256": "12a505b65e936911e677a9b17e953edcf37775167f7b78869aeb76ec9de44720",
+          "sha1": "b2a0974089bda29a7f54f862ea06c90da60bfcac",
+          "md5": "3991a6f673c4a7f1f506fa907f542b9f"
         }
       ]
     }
