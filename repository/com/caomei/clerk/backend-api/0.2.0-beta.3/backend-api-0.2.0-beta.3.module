@@ -3,7 +3,7 @@
   "component": {
     "group": "com.caomei.clerk",
     "module": "backend-api",
-    "version": "0.2.0-beta.2",
+    "version": "0.2.0-beta.3",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -34,13 +34,13 @@
       ],
       "files": [
         {
-          "name": "backend-api-0.2.0-beta.2.jar",
-          "url": "backend-api-0.2.0-beta.2.jar",
+          "name": "backend-api-0.2.0-beta.3.jar",
+          "url": "backend-api-0.2.0-beta.3.jar",
           "size": 1822369,
-          "sha512": "8042e5359c7bdff424642b30c3271f1503dd10184aa7eb6dab6fb1daf58efd4bd095d08a854bb07e4cba4fee13782d65252695104db0d6d5e806800207ac886f",
-          "sha256": "b677fe24d2b1aa7914006334e1731662d329c6d40ea5585949bed4c9b2d6ddb3",
-          "sha1": "5995a2d6ab2406fe547cbb9e3a186c7da9cd9c13",
-          "md5": "acd984061b59863daa22f1bb61311fdc"
+          "sha512": "f82d6d1d8c9333d9398dc981d000bea409359e6bf1130a9befee7a9d35ae8bb112162e6af3f6e8ece6df1aaab6210125c4b60136385654706673609bdc581a0b",
+          "sha256": "f7d602a0e5dcf452cce28bbc43b45f09aa0d3579e3d7577715b93e9a6aa90818",
+          "sha1": "5256e06c2fcaaaaf44707baf7529ab88f80ece43",
+          "md5": "8a2b7ebc7b6bfdd643512cd0e54e3d63"
         }
       ]
     },
@@ -141,13 +141,13 @@
       ],
       "files": [
         {
-          "name": "backend-api-0.2.0-beta.2.jar",
-          "url": "backend-api-0.2.0-beta.2.jar",
+          "name": "backend-api-0.2.0-beta.3.jar",
+          "url": "backend-api-0.2.0-beta.3.jar",
           "size": 1822369,
-          "sha512": "8042e5359c7bdff424642b30c3271f1503dd10184aa7eb6dab6fb1daf58efd4bd095d08a854bb07e4cba4fee13782d65252695104db0d6d5e806800207ac886f",
-          "sha256": "b677fe24d2b1aa7914006334e1731662d329c6d40ea5585949bed4c9b2d6ddb3",
-          "sha1": "5995a2d6ab2406fe547cbb9e3a186c7da9cd9c13",
-          "md5": "acd984061b59863daa22f1bb61311fdc"
+          "sha512": "f82d6d1d8c9333d9398dc981d000bea409359e6bf1130a9befee7a9d35ae8bb112162e6af3f6e8ece6df1aaab6210125c4b60136385654706673609bdc581a0b",
+          "sha256": "f7d602a0e5dcf452cce28bbc43b45f09aa0d3579e3d7577715b93e9a6aa90818",
+          "sha1": "5256e06c2fcaaaaf44707baf7529ab88f80ece43",
+          "md5": "8a2b7ebc7b6bfdd643512cd0e54e3d63"
         }
       ]
     },
@@ -161,8 +161,8 @@
       },
       "files": [
         {
-          "name": "backend-api-0.2.0-beta.2-sources.jar",
-          "url": "backend-api-0.2.0-beta.2-sources.jar",
+          "name": "backend-api-0.2.0-beta.3-sources.jar",
+          "url": "backend-api-0.2.0-beta.3-sources.jar",
           "size": 810959,
           "sha512": "95183ad460d2e5744d66f1fdb371fc8c5ce1e16841ba0f16d2b47d2fbee9eb54a8ef9eb5b8f5142d4b479363505d215ec7e87505488dcd6bbb3be4ac15538f07",
           "sha256": "63938239d7c5d18c17c7f5f627ebef1e77c5d60727481bd7f2715c7940ac3280",
@@ -181,8 +181,8 @@
       },
       "files": [
         {
-          "name": "backend-api-0.2.0-beta.2-javadoc.jar",
-          "url": "backend-api-0.2.0-beta.2-javadoc.jar",
+          "name": "backend-api-0.2.0-beta.3-javadoc.jar",
+          "url": "backend-api-0.2.0-beta.3-javadoc.jar",
           "size": 4088090,
           "sha512": "ddfda3777c71c39d6cfe5042c0779a807382d66c3437f190377119f7031378b087cc2ae5c93069d3783dca83c6315105accf40aafbcfe921084c9f4e24a8a429",
           "sha256": "1cf13725dd210c77fe7a57284ed18b1a2b863e391ec6f79824d98a033b5aa6cc",
