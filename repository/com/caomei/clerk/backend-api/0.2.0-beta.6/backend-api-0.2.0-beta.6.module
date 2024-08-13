@@ -3,7 +3,7 @@
   "component": {
     "group": "com.caomei.clerk",
     "module": "backend-api",
-    "version": "0.2.0-beta.5",
+    "version": "0.2.0-beta.6",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -34,13 +34,13 @@
       ],
       "files": [
         {
-          "name": "backend-api-0.2.0-beta.5.jar",
-          "url": "backend-api-0.2.0-beta.5.jar",
-          "size": 1822369,
-          "sha512": "7a8e334418f63d352360bc1d9884ce29cf528b5f12e9e4af7f5dc4cd43888032e7288fa3a5804c0fc22bcd4b07985c5c29e6ab4db91904bc7e0775ecfadd2779",
-          "sha256": "06bf85edc913dee02b0c99a9ca7762c2d8820f4e9032af8088b5fdbd8c629081",
-          "sha1": "45f7be9931a5821c4e404da35db5a8bb8e51826b",
-          "md5": "ebcbd3d2f8701271eede3aaa6e27fbb4"
+          "name": "backend-api-0.2.0-beta.6.jar",
+          "url": "backend-api-0.2.0-beta.6.jar",
+          "size": 1822367,
+          "sha512": "063749277ac45a479f0d6dd70548f5710cfcb20138ff827b3b89b11f16e32ef25a1a64b745ca2dd3449ef50802fe881f79da873ca3bf6df184f86ab5d1113025",
+          "sha256": "db9bb5158d927cab8f91e566fafa6a1b151dcaf397a474f7b712bec5322ff4d3",
+          "sha1": "1cff54bec057d48ea5b040d921ab5dbf4e28221f",
+          "md5": "4c26a9c781c3966e25e9c007a9617779"
         }
       ]
     },
@@ -141,13 +141,13 @@
       ],
       "files": [
         {
-          "name": "backend-api-0.2.0-beta.5.jar",
-          "url": "backend-api-0.2.0-beta.5.jar",
-          "size": 1822369,
-          "sha512": "7a8e334418f63d352360bc1d9884ce29cf528b5f12e9e4af7f5dc4cd43888032e7288fa3a5804c0fc22bcd4b07985c5c29e6ab4db91904bc7e0775ecfadd2779",
-          "sha256": "06bf85edc913dee02b0c99a9ca7762c2d8820f4e9032af8088b5fdbd8c629081",
-          "sha1": "45f7be9931a5821c4e404da35db5a8bb8e51826b",
-          "md5": "ebcbd3d2f8701271eede3aaa6e27fbb4"
+          "name": "backend-api-0.2.0-beta.6.jar",
+          "url": "backend-api-0.2.0-beta.6.jar",
+          "size": 1822367,
+          "sha512": "063749277ac45a479f0d6dd70548f5710cfcb20138ff827b3b89b11f16e32ef25a1a64b745ca2dd3449ef50802fe881f79da873ca3bf6df184f86ab5d1113025",
+          "sha256": "db9bb5158d927cab8f91e566fafa6a1b151dcaf397a474f7b712bec5322ff4d3",
+          "sha1": "1cff54bec057d48ea5b040d921ab5dbf4e28221f",
+          "md5": "4c26a9c781c3966e25e9c007a9617779"
         }
       ]
     },
@@ -161,13 +161,13 @@
       },
       "files": [
         {
-          "name": "backend-api-0.2.0-beta.5-sources.jar",
-          "url": "backend-api-0.2.0-beta.5-sources.jar",
+          "name": "backend-api-0.2.0-beta.6-sources.jar",
+          "url": "backend-api-0.2.0-beta.6-sources.jar",
           "size": 810959,
-          "sha512": "8cfbb67538eaf8c7072bd1e5f4f530b549f169900ef89994ae31e9bab4e23e99d20d41e4db60f1499e992b260b9cd29570eb3074f471783dd1105342f091e0f7",
-          "sha256": "75adb6c9e3077a0ceefc3649d0008cc49610e0a9a5613af47b5f0eca0de65277",
-          "sha1": "cb6e834f960e049e40b3b3c930ff6f4b4a4f33dc",
-          "md5": "0c31436b091bc5f7bd599ccc81514f21"
+          "sha512": "36a044347df4d4e128ec05bf6578616f5abb5bdf9d0b52aa875f13c5b188507626a9f0353836d49cfa3a9755911cc4f27e058fc7f1b53819dbcd6346ec4f243d",
+          "sha256": "21096b47e1f653768c91420d6a19bf62e3444bf5ca950c665c0deaca004e8436",
+          "sha1": "276059e4b0a2b9d0f765937fa6947979429221cb",
+          "md5": "b5e84fe54a4006539e43c4ef91bdd68e"
         }
       ]
     },
@@ -181,13 +181,13 @@
       },
       "files": [
         {
-          "name": "backend-api-0.2.0-beta.5-javadoc.jar",
-          "url": "backend-api-0.2.0-beta.5-javadoc.jar",
-          "size": 4088183,
-          "sha512": "da78e15fb88b554462929f7011d3d7ec2bfffc66fe0cd13d6745d4cac9621967e88a3ffca8253a5133f3c53e5e0d4d7c54d4b8e7b995f7ff53ebad6c9e47689d",
-          "sha256": "2f20aa58ec7afbd360f4f6e5e847475df0399cb309d24295b93e9b6657f0914c",
-          "sha1": "b3484a00e8b7de39f254dd11ff43e8e31b9e223c",
-          "md5": "acac11e50c38b5adea83f3e0f7adf5c6"
+          "name": "backend-api-0.2.0-beta.6-javadoc.jar",
+          "url": "backend-api-0.2.0-beta.6-javadoc.jar",
+          "size": 4088281,
+          "sha512": "5e95cb75f9560c581ddc6ba5ca02f2cb09f174a856d80232b7eee3104ed2ab1b8590c5f958ac76008ab8cec90e2cd29345465c3a0d080f34a3cca8261e94b56d",
+          "sha256": "4b4d454de57a2bcd0a4dcf91fca78ace7ba47094d4cb69874852c9051e473717",
+          "sha1": "f3513661434a9b8cc9a68d30b2be39c26ced3c3f",
+          "md5": "ba1105e250ff47046ef7e48189048561"
         }
       ]
     }
